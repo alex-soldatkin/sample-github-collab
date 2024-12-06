@@ -4,6 +4,6 @@
 
 #TODO: add our names here
 
-- Person A
+- Person D
 - Person B
 - Person C
